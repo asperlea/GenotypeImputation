@@ -4,6 +4,13 @@
 
 This repository will contain the code for the final project for the CS M224 Computational Genetics Class. The goal of the project is to develop a fast and accurate method for imputing missing SNPs in genotype data. This project is mainly motivated by two issues: first -- SNP chips cost more for genotyping more SNPS; second -- different studies often use different SNP chips. Genotype imputation can be used both to reduce costs by using smaller SNP chips and imputing missing values, as well as to combine data from two different studies by imputing the values that are missing in each data set.
 
+To obtain the same results and plots run the followin R scripts in order:
+`MLR.R`
+`nearestNeighbor.R
+`plotting.R`
+
+The necessary data files should be on git.
+
 ## Bio
 
 I am a 2nd year graduate student in the Bioinformatics IDP program, currently working in Jason Ernst's lab on machine learning techniques for investigating the non-coding areas of the human genome. 
