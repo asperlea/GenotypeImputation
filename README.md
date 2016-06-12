@@ -6,7 +6,9 @@ This repository will contain the code for the final project for the CS M224 Comp
 
 To obtain the same results and plots run the followin R scripts in order:
 `MLR.R`
-`nearestNeighbor.R
+
+`nearestNeighbor.R`
+
 `plotting.R`
 
 The necessary data files should be on git.
