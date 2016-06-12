@@ -25,15 +25,15 @@ Use the LD structure of the genome to impute missing values.
 
 ###5/12
 1. Weekly progress
-..*Set up README.md file and starting to think about how to tackle this project
+..* Set up README.md file and starting to think about how to tackle this project
 2. Next week plan
-..*Read at least a couple papers about how people do this.
+..* Read at least a couple papers about how people do this.
 3. Grade for week
-..*A+ for starting project
+..* A+ for starting project
 4. Problems that came up
-..*Had not started project
+..* Had not started project
 5. Problems solved this week
-..*Actually started project
+..* Actually started project
 
 ###5/19
 1. Weekly progress
