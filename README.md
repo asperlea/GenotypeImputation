@@ -9,7 +9,8 @@ This repository will contain the code for the final project for the CS M224 Comp
 I am a 2nd year graduate student in the Bioinformatics IDP program, currently working in Jason Ernst's lab on machine learning techniques for investigating the non-coding areas of the human genome. 
 
 ## Final Goal
-5/1 Use the LD structure of the genome to impute missing values
+###5/1 
+Use the LD structure of the genome to impute missing values.
 
 ## Updates
 
